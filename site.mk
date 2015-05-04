@@ -3,8 +3,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-alfred \
 	gluon-announced \
 	gluon-autoupdater \
-	gluon-setup-mode \
-	gluon-config-mode-core \
 	gluon-config-mode-autoupdater \
 	gluon-config-mode-hostname \
 	gluon-config-mode-mesh-vpn \
@@ -16,7 +14,6 @@ GLUON_SITE_PACKAGES := \
 	gluon-luci-autoupdater \
 	gluon-luci-portconfig \
 	gluon-luci-private-wifi \
-	gluon-luci-wifi-config \
 	gluon-next-node \
 	gluon-mesh-vpn-fastd \
 	gluon-radvd \
